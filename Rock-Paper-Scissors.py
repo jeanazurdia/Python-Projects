@@ -1,3 +1,8 @@
+#prompting user to input option between rock, paper, scissors
+#any other option is given "Incorrect input"
+#learning application of if, elif, else
+
+
 first = input('First move: ')
 second = input('Second move: ')
 
